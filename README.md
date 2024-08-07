@@ -1,8 +1,8 @@
 # barbershop_tcp
 Test program to work with local network based on tcp connection:
   1. **server.c** illustrates barber sleeping without clients and working with them.
-  2. **client.c** illustrates cliets visiting barbershop.
-  3. **log.c** illustrates logger program that outputs all actions in local network.
+  2. **client.c** illustrates cliet visiting barbershop.
+  3. **log.c** illustrates logger program that outputs to the console all actions in local network.
 
 Rules:
   1. Working server must be one.
